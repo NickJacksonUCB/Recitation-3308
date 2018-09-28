@@ -1,3 +1,7 @@
 Nick Jackson - Lab 4
-This might cause a merge conflict
+
+This might cause a merge conflit
+
+Partner:
+    Jason R Evarts
 
